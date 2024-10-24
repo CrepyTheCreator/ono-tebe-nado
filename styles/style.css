@@ -82,7 +82,7 @@
 }
 
 .cover__content {
-  position: relative; 
+  position: relative;
   z-index: 2;
   display: flex;
   flex-direction: column;
@@ -92,12 +92,12 @@
 
 .cover__title {
   padding-top: 165px;
-  font-family: Raleway, sans-serif; 
-  font-size: 100px; 
+  font-family: Raleway, sans-serif;
+  font-size: 100px;
 }
 
-.aligned-text { 
-  display: block; 
+.aligned-text {
+  display: block;
   letter-spacing: 0.3em;
 }
 
@@ -106,8 +106,8 @@
   text-align: center;
 }
 
-.aligned-text_right { 
-  padding-top: 3px; 
+.aligned-text_right {
+  padding-top: 3px;
   text-align: right;
 }
 
@@ -210,7 +210,7 @@
 }
 
 .picture-content {
-  display: flex;  
+  display: flex;
   flex-direction: column;
   gap: 94px;
   padding: 51px 40px;
@@ -227,7 +227,7 @@
 }
 
 .card__text {
-  z-index: 2;  
+  z-index: 2;
   max-width: 254px;
   font-weight: 400;
   font-size: 20px;
